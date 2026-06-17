@@ -1,0 +1,9 @@
+numpy
+scipy
+tqdm
+networkx
+metis
+einops
+transformers
+wandb
+nni

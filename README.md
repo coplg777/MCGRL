@@ -1,7 +1,7 @@
 # Cluster-GT Classification Workflow
 
 This directory keeps the runnable classification workflow, datasets, and the
-best IMDB configuration files.
+best IMDB configuration files.The complete source code will be made publicly available upon acceptance of MCGRL.
 
 ## Contents
 
